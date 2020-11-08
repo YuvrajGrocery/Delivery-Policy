@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/YuvrajGrocery/Delivery-Policy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+SHIPPING & DILVERY POLICY
 
-### Markdown
+We are committed to protecting the privacy of all visitors to Y Grocery website. Please read the following privacy policy which explains how we use and protect your information.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We are Y Grocery , our registered office at PLOT NO 40, SURENDRA NAGAR, ISMAILGANJ,Lucknow,UttarPradesh,226028
 
-```markdown
-Syntax highlighted code block
+IMPORTANT LEGAL NOTICE
 
-# Header 1
-## Header 2
-### Header 3
+This page tells you the terms and conditions on which we provide our services (“Website Terms”). Please read these Website Terms carefully before ordering any items from our Website. You should understand that by ordering food items via the Website, you agree to be bound by these Website Terms.
 
-- Bulleted
-- List
+Prices
 
-1. Numbered
-2. List
+GST is applicable on the prices.
 
-**Bold** and _Italic_ and `Code` text
+On the occasion that any item is incorrectly priced, we reserve the right to cancel the purchase and relist the product at the correct price.
 
-[Link](url) and ![Image](src)
-```
+Privacy
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+We only store necessary information required to make a purchase.
 
-### Jekyll Themes
+Your credit card information is not stored by us and is always processed across a secure server.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YuvrajGrocery/Delivery-Policy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+We do not sell data, we only sell great product! All information left with A.S.H collection is entirely confidential.
 
-### Support or Contact
+Online Order
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Our customer service will call you only when they need some clarifications. All regular communications after placing an order will happen on email, notifications or through the website.
+
+An order number will be generated once the order is confirmed.
+
+Items ordered from website are subject to availability at the store location as per the location chosen by you.
+
+Order will be delivered as fast as possible, usually within 5-8 days. It might vary as per location and area and will be indicated to you after shipment.
